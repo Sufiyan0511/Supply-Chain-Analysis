@@ -3,7 +3,7 @@ Supply chain analysis is the process of evaluating every stage of a supply chain
 
 The purpose of the analysis is to determine which part of the supply chain can be improved or shortened to deliver the product more quickly and efficiently to the customers
 
-# How to conduct supply chain analysis
+**How to conduct supply chain analysis**
 
 Define your objectives.
 Research the market.
@@ -11,7 +11,7 @@ Conduct in-depth supplier analysis.
 Identify key market indicators
 Pull together your findings and outline final suggestions - I'd recommend taking a look at using SharpCloud as a visual presentation tool.
 
-# Dataset
+**Dataset**
 Product Type
 SKU
 Price
