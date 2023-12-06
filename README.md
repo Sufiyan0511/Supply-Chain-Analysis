@@ -12,27 +12,27 @@ Identify key market indicators
 Pull together your findings and outline final suggestions - I'd recommend taking a look at using SharpCloud as a visual presentation tool.
 
 **Dataset**
-Product Type
-SKU
-Price
-Availability
-Number of products sold
-Revenue generated
-Customer demographics
-Stock levels
-Lead times
-Order quantities
-Shipping times
-Shipping carriers
-Shipping costs
-Supplier name
-Location
-Lead time
-Production volumes
-Manufacturing lead time
-Manufacturing costs
-Inspection results
-Defect rates
-Transportation modes
-Routes
-Costs
+- Product Type
+- SKU
+- Price
+- Availability
+- Number of products sold
+- Revenue generated
+- Customer demographics
+- Stock levels
+- Lead times
+- Order quantities
+- Shipping times
+- Shipping carriers
+- Shipping costs
+- Supplier name
+- Location
+- Lead time
+- Production volumes
+- Manufacturing lead time
+- Manufacturing costs
+- Inspection results
+- Defect rates
+- Transportation modes
+- Routes
+- Costs
